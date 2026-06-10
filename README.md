@@ -9,7 +9,7 @@ Bu proje, karmaşık bileşen durumlarını (state) tek bir merkezden, öngörü
 ## 🚀 Canlı Önizleme (Live Demo)
 
 Projenin canlı versiyonuna aşağıdaki linkten ulaşabilirsiniz:
-🔗 [MemuCalc Canlı Uygulama Linki](https://YOUR_GITHUB_USERNAME.github.io/MemuCalc/)
+🔗 [MemuCalc Canlı Uygulama Linki](https://yavuzs-cakmak.github.io/MemuCalc/)
 
 ---
 
