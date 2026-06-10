@@ -32,7 +32,11 @@ Projenin canlı versiyonuna aşağıdaki linkten ulaşabilirsiniz:
 - **Form & Data Validation:** Yup
 - **API Mocking:** MSW (Mock Service Worker)
 - **Tasarım/Stil:** CSS3, Bootstrap grid yapısı
-
+  
+---
+👨‍💻 Hazırlayan: Yavuz Selim Çakmak
+📫 İletişim
+cakmakselimfb58@gmail.com LinkedIn: linkedin.com/in/yavuzscakmak
 ---
 
 ## 📂 Proje Klasör Yapısı
@@ -54,10 +58,6 @@ src/
 │   └── worker.js
 ├── App.jsx                 # Uygulamanın kalbi, useReducer köprüsü
 └── index.css               # Özelleştirilmiş global stil şablonları
-
-👨‍💻 Hazırlayan: Yavuz Selim Çakmak
-📫 İletişim
-cakmakselimfb58@gmail.com LinkedIn: Linkedin.com/in/yavuzscakmak
 
 ⚙️ Kurulum ve Çalıştırma
 Projeyi yerelde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
