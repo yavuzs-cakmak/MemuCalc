@@ -9,7 +9,7 @@ Bu proje, karmaşık bileşen durumlarını (state) tek bir merkezden, öngörü
 ## 🚀 Canlı Önizleme (Live Demo)
 
 Projenin canlı versiyonuna aşağıdaki linkten ulaşabilirsiniz:
-🔗 [MemuCalc Canlı Uygulama Linki](memu-calc-oifbfhi2r-yavuzs-cakmaks-projects.vercel.app)
+🔗 [MemuCalc Canlı Uygulama Linki]([memu-calc-oifbfhi2r-yavuzs-cakmaks-projects.vercel.app](https://memu-calc-yavuzs-cakmaks-projects.vercel.app))
 
 ---
 
